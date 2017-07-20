@@ -5,7 +5,7 @@ Simple chat app made using socket.io
 It is a basic one on one chat app where user can send messages and also view previous chat history.
 
 # Technologies used
-Socket.io
-NodeJs
-ExpressJs
-MongoDB
+1)Socket.io
+2)NodeJs
+3)ExpressJs
+4)MongoDB
