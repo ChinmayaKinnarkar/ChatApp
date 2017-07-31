@@ -14,9 +14,6 @@ NodeJS
 3) ExpressJs
 4) MongoDB
 
-# Website link:
-http://ec2-13-126-131-55.ap-south-1.compute.amazonaws.com/
-
 # To run mongodb
 1) Go to the installed mongodb folder via a command prompt or terminal.
 2) Go to the bin folder
@@ -35,3 +32,5 @@ http://ec2-13-126-131-55.ap-south-1.compute.amazonaws.com/
 3) Start chatting with your friends
 4)If you refresh the website you will be logged out and to login again you will have to enter your username.
 
+# Website link:
+http://ec2-13-126-131-55.ap-south-1.compute.amazonaws.com/
