@@ -11,4 +11,4 @@ It is a basic one on one chat app where user can send messages and also view pre
 4) MongoDB
 
 # Website link:
-http://ec2-13-126-117-176.ap-south-1.compute.amazonaws.com/
+http://ec2-13-126-131-55.ap-south-1.compute.amazonaws.com/
