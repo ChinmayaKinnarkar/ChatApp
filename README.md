@@ -33,4 +33,4 @@ NodeJS
 4)If you refresh the website you will be logged out and to login again you will have to enter your username.
 
 # Website link:
-http://ec2-13-126-131-55.ap-south-1.compute.amazonaws.com/
+http://ec2-35-154-157-7.ap-south-1.compute.amazonaws.com/
