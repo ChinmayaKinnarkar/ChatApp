@@ -32,5 +32,4 @@ NodeJS
 3) Start chatting with your friends
 4)If you refresh the website you will be logged out and to login again you will have to enter your username.
 
-# Website link:
-http://ec2-13-126-83-91.ap-south-1.compute.amazonaws.com
+
